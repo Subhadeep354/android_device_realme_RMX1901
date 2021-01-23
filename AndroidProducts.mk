@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_RMX1901.mk
+    $(LOCAL_DIR)/ssos_RMX1901.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_RMX1901-userdebug \
-    potato_RMX1901-eng
+    ssos_RMX1901-userdebug \
+    ssos_RMX1901-eng
