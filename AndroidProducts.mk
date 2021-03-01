@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ssos_RMX1901.mk
+    $(LOCAL_DIR)/corvus_RMX1901.mk
 
 COMMON_LUNCH_CHOICES := \
-    ssos_RMX1901-userdebug \
-    ssos_RMX1901-eng
+    corvus_RMX1901-userdebug \
+    corvus_RMX1901-eng
